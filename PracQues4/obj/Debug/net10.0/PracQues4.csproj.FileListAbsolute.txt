@@ -1,0 +1,14 @@
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/bin/Debug/net10.0/PracQues4
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/bin/Debug/net10.0/PracQues4.deps.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/bin/Debug/net10.0/PracQues4.runtimeconfig.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/bin/Debug/net10.0/PracQues4.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/bin/Debug/net10.0/PracQues4.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.AssemblyInfo.cs
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/refint/PracQues4.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/PracQues4.genruntimeconfig.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues4/obj/Debug/net10.0/ref/PracQues4.dll

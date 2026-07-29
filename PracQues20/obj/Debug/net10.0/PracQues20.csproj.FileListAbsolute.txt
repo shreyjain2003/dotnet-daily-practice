@@ -1,0 +1,14 @@
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/bin/Debug/net10.0/PracQues20
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/bin/Debug/net10.0/PracQues20.deps.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/bin/Debug/net10.0/PracQues20.runtimeconfig.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/bin/Debug/net10.0/PracQues20.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/bin/Debug/net10.0/PracQues20.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.AssemblyInfo.cs
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/refint/PracQues20.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/PracQues20.genruntimeconfig.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues20/obj/Debug/net10.0/ref/PracQues20.dll

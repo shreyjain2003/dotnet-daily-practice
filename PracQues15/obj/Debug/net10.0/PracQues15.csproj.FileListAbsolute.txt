@@ -1,0 +1,14 @@
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/bin/Debug/net10.0/PracQues15
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/bin/Debug/net10.0/PracQues15.deps.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/bin/Debug/net10.0/PracQues15.runtimeconfig.json
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/bin/Debug/net10.0/PracQues15.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/bin/Debug/net10.0/PracQues15.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.AssemblyInfo.cs
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/refint/PracQues15.dll
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.pdb
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/PracQues15.genruntimeconfig.cache
+/Users/shrey/Desktop/Capgemini_Training/PracQues15/obj/Debug/net10.0/ref/PracQues15.dll
