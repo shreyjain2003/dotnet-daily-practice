@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/bin/Debug/net10.0/PracQues8
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/bin/Debug/net10.0/PracQues8.deps.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/bin/Debug/net10.0/PracQues8.runtimeconfig.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/bin/Debug/net10.0/PracQues8.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/bin/Debug/net10.0/PracQues8.pdb
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.AssemblyInfo.cs
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.sourcelink.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/refint/PracQues8.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.pdb
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/PracQues8.genruntimeconfig.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues8/obj/Debug/net10.0/ref/PracQues8.dll

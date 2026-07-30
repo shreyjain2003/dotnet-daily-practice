@@ -1,0 +1,15 @@
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/bin/Debug/net10.0/PracQues6
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/bin/Debug/net10.0/PracQues6.deps.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/bin/Debug/net10.0/PracQues6.runtimeconfig.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/bin/Debug/net10.0/PracQues6.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/bin/Debug/net10.0/PracQues6.pdb
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.AssemblyInfoInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.AssemblyInfo.cs
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.csproj.CoreCompileInputs.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.sourcelink.json
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/refint/PracQues6.dll
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.pdb
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/PracQues6.genruntimeconfig.cache
+/Users/shrey/Desktop/Capgemini_Training/Day03/PracQues6/obj/Debug/net10.0/ref/PracQues6.dll
